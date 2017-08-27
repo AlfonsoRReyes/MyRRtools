@@ -9,3 +9,5 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/AlfonsoRReyes/MyRRtools
 BugReports: https://github.com/AlfonsoRReyes/MyRRtools/issues
+Imports: bookdown
+Suggests: testthat
